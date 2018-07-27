@@ -1,3 +1,7 @@
+#######################################
+# Bash script to install PHP7.1 and Composer. For Debian based systems.
+# Written by @kingpauloaquino from http://pollyload.com
+#######################################
 
 echo -e "$Cyan \n Installing Python Software Package $Color_Off"
 sudo apt-get install python-software-properties

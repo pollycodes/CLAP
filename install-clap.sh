@@ -1,8 +1,6 @@
 #######################################
-# Bash script to install an AMP stack and PHPMyAdmin plus tweaks. For Debian based systems.
-# Written by @Akingpauloaquino from http://pollyload.com
-
-# In case of any errors (e.g. MySQL) just re-run the script. Nothing will be re-installed except for the packages with errors.
+# Bash script to install CLAP. For Debian based systems.
+# Written by @kingpauloaquino from http://pollyload.com
 #######################################
 
 #COLORS
